@@ -33,7 +33,7 @@ function Index() {
         <ul>
           <li>
             <a href="https://github.com/friedegg796/Muslimdiscs" target="_blank" rel="noopener noreferrer">
-              Muslimdiscs - An Islamic minecraft mod that adds Islamic discs to the game.
+              Muslimdiscs - A minecraft mod that adds Islamic discs to the game.
             </a>
           </li>
 
