@@ -16,8 +16,7 @@ function Navbar() {
 
               <div className="naviright">
             <ul className="navisocials">
-                <li><a href="#contact">Contact</a></li>
-                <li><a href="#footer">Socials</a></li>
+                <li><a href="#footer">Contact</a></li>
             </ul>
 
               </div>
