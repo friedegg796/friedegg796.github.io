@@ -7,4 +7,9 @@ function Projects() {
             <p>Here are some of my projects:</p>
             <ul>
                 <li> WIP </li>
-            
+            </ul>
+        </div>
+    )
+}
+
+export default Projects

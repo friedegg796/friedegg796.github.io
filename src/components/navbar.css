@@ -19,18 +19,32 @@ a{
   padding: 1rem;
 }
 
-.navicenter .navilinks {
+.navicenter {
+  display: flex;
+  align-items: center;
+}
+
+.naviright {
+  display: flex;
+  align-items: right;
+}
+
+.navicenter .navigroup, .naviright .navisocials {
   list-style-type: none;
   display: flex;
   margin: 0;
   padding: 0;
 }
 
-.navicenter .navilinks li {
-  margin-right: 1rem;
+
+.navicenter .navigroup li {
+  margin-left: 2rem;
+}
+.naviright .navisocials li{
+ margin-right: 2rem;
 }
 
-.navicenter .navilinks a {
+.navicenter .navigroup, .navisocials a {
   color: #fff;
   text-decoration: none;
 }

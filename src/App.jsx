@@ -1,22 +1,14 @@
-import NavigationBar from './reusablecomponents/navigationbar'
+import Navbar from './components/Navbar'
 import Index from './pages/Index'
-import { HashRouter, Routes, Route } from "react-router-dom"
 
 function App() {
   return (
-    <>
+          <>
+      <Navbar/>
+      
+        <Index/>
+        </>
 
-
-      <HashRouter>
-      <NavigationBar/>
-       <Routes>
-        <Route path="/" element={<Index/>}/>
-        </Routes>
-
-
-    </HashRouter>
-   {/* <Footer /> */}
-    </>
   )
 }
 
