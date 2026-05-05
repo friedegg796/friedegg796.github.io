@@ -1,0 +1,36 @@
+.title{
+    text-align: left;
+    color: white;
+    font-size: 1.5rem;
+    font-weight: bold;
+    padding: 10px;
+
+}
+a{
+    text-decoration: none;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #3433;
+  color: #fff;
+  padding: 1rem;
+}
+
+.navicenter .navilinks {
+  list-style-type: none;
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
+
+.navicenter .navilinks li {
+  margin-right: 1rem;
+}
+
+.navicenter .navilinks a {
+  color: #fff;
+  text-decoration: none;
+}
