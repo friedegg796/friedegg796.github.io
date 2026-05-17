@@ -3,7 +3,6 @@
 
 As with a lot of things, this is a WIP, but I do appreciate tips and knowledge.
 
-Also, if you're wondering why I'm not online on Discord right now, I gotta lock in on coding and my AP tests, sorry!
 <!--
 **friedegg796/friedegg796** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
