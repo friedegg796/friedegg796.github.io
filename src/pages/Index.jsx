@@ -8,10 +8,9 @@ function Index() {
         <div>
           <h1>Hasnain Alahi</h1>
           <p>
-            A Muslim developer who loves to share benefical knowledge
-            in a plethoa of ways.
+            A Muslim developer who loves to share benefical knowledge.
 
-       <br></br>
+       <br/>
        A lot of this is a WIP
 
           </p>
