@@ -5,10 +5,10 @@ function Footer() {
          <footer id="footer">
 
           <p>&copy; 2026 friedegg796. All rights reserved.</p>
-          
+
      <ul>
             <li>
-              <a href="https://github.com/friedegg796" target="_blank">
+              <a href="https://github.com/friedegg796.github.io.github.io.github.io" target="_blank">
                 <svg
                   className="button-icon"
                   role="presentation"
