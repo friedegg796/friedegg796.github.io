@@ -11,7 +11,7 @@ function App() {
 
        <p> This place is ery much a WIP, any tips are appreciated! </p>
 
-       <p> </
+       <p> </p>
     </>
   )
 }
