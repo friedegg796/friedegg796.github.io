@@ -9,7 +9,8 @@ function App() {
 
        <p> HI! And to my Muslims, Asalamualaykum Warahmatulahi Wabarakatuh(May peace, mercy,and blessings be upon you)!</p>
 
-      <p> I'm an aspiring developer determined to spread benefical knowledge </p>
+      <p> I'm an aspiring developer determined to spread benefical knowledge, with an interest in the destructive capabilities
+        of cybersecurity </p>
 
        <p> This place is very much a WIP, any tips are appreciated! </p>
 
