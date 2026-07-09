@@ -7,9 +7,11 @@ function App() {
     <>
        <h1> Friedegg796 </h1>
 
-       <p> HI! And to my Muslims, Asalamualaykum Warahmatulahi Wabarakatuh!</p>
+       <p> HI! And to my Muslims, Asalamualaykum Warahmatulahi Wabarakatuh(May peace, mercy,and blessings be upon you)!</p>
 
-       <p> This place is ery much a WIP, any tips are appreciated! </p>
+      <p> I'm a High school Senior </p>
+
+       <p> This place is very much a WIP, any tips are appreciated! </p>
 
        <p> </p>
     </>
