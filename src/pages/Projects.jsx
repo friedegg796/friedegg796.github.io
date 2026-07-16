@@ -1,11 +1,16 @@
 
-const Projects()
+function Projects() {
 
-return {
-   <>               
+return (
+   <>
+
+     <h1> Projects </h1>
+
 
     </>
 
+
+)
 
 }
 
