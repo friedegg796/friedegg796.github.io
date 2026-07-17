@@ -21,7 +21,7 @@ function App() {
      <h2> My Story </h2>
        <p> It's still ongoing. </p>
 
-        <p> Although making things is  </p>
+        <p> Although making things is fun, BREAKING INTO THEM IS EVEN FUNNER! </p>
 
 
        <h4> More </h4>
