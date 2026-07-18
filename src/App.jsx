@@ -30,7 +30,8 @@ function App() {
 
       <br/>
 
-      What 
+      What I personally found to be the best way of getting as many good deeds as I could (in the laziest way)--making benefical programs--
+      also becomes a bit boring after a while.
       </p>
 
       <p> Although making things is fun, BREAKING INTO THEM IS EVEN FUNNER! </p> */ }
