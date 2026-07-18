@@ -23,7 +23,9 @@ function App() {
 
       { /*
 
-      <p> </p>
+      <p> A lot of the reason why I do what I do stems from me being Muslim </p>
+
+      <p> Growing</p>
 
       <p> Although making things is fun, BREAKING INTO THEM IS EVEN FUNNER! </p> */ }
 
