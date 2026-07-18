@@ -25,7 +25,13 @@ function App() {
 
       <p> A lot of the reason why I do what I do stems from me being Muslim </p>
 
-      <p> Growing up Muslim,I had a lot of restrictions (and for good reason) on what I could do</p>
+      <p> Growing up Muslim,I had a lot of restrictions (and for good reason) on what I could do, and also led me to wanting
+      to get as many good deeds as I can.
+
+      <br/>
+
+      
+      </p>
 
       <p> Although making things is fun, BREAKING INTO THEM IS EVEN FUNNER! </p> */ }
 
