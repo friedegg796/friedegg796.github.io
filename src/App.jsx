@@ -7,9 +7,9 @@ function App() {
     <>
        <h1> Friedegg796 </h1>
 
-       <p> HI! And to my Muslims, Asalamualaykum Warahmatulahi Wabarakatuh(May peace, mercy,and blessings be upon you)!</p>
+       <p> HI! To my Muslims, Asalamualaykum Warahmatulahi Wabarakatuh (May peace, mercy,and blessings be upon you)!</p>
 
-       <br/>
+      <br/>
 
       <p> I'm an aspiring Red Teamer with a hobby in Minecraft modding and developing benefical programs </p>
 
@@ -17,11 +17,16 @@ function App() {
 
        <p> This place is very much a WIP, any tips are appreciated! </p>
 
+               <h2> Status </h2>
 
+    
+
+
+  { /*
      <h2> My Story </h2>
        <p> It's still ongoing. </p>
 
-      { /*
+
 
       <p> A lot of the reason why I do what I do stems from me being Muslim </p>
 
@@ -34,7 +39,7 @@ function App() {
       also becomes a bit boring after a while.
       </p>
 
-      <p> Although making things is fun, BREAKING INTO THEM IS EVEN FUNNER! </p> */ }
+      <p> And then I found out about cybersecurity </p> */ }
 
 
        <h4> More </h4>
