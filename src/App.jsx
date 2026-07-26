@@ -9,12 +9,12 @@ function App() {
   return (
     <>
  <HashRouter>
-      {*/  <Nav/>    */}
+      {/*  <Nav/>    */}
        <Routes>
         <Route path="/" element={<Index/>}/>
         <Route path="/Projects" element={<Projects/>}/>
         </Routes>
-       {*/  <Footer/>    */}
+       {/*  <Footer/>    */}
     </HashRouter>
 
     </>
