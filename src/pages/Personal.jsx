@@ -23,18 +23,21 @@ return (
 
   <h2> Likes and Dislikes </h2>
 
-
+<h3> Likes</h3>
 <ul>
 <li>
-Coding
+Coding, and technology in general
 </li>
 <li>
 Nature
 </li>
+<li>
+  TRAINS!
+</li>
 </ul>
 
 
-
+<h3> Dislikes </h3>
 
 <ul>
 <li>
