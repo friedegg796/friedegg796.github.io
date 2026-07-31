@@ -7,7 +7,10 @@ function Index() {
     <>
        <h1> Friedegg796 </h1>
 
-       <p> HI! To my Muslims, Asalamualaykum Warahmatulahi Wabarakatuh (May peace, mercy,and blessings be upon you)!</p>
+       <p>
+         HI!
+         To my Muslims, Asalamualaykum Warahmatulahi Wabarakatuh (May peace, mercy,and blessings be upon you)!
+         </p>
 
       <br/>
 
@@ -24,6 +27,7 @@ function Index() {
         <p> If you wanna see my blog, then you might have to wait cuz that needs to be made</p>
 
                <h2> Status </h2>
+               
       <p> Currently in 12th Grade my High School (Senior/final year) </p>
 
 
