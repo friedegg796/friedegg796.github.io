@@ -24,7 +24,6 @@ function Index() {
                <h2> Status </h2>
       <p> Currently in 12th Grade my High School (Senior/final year) </p>
 
-     <h3> </h3>
 
 
 
@@ -46,11 +45,6 @@ function Index() {
       </p>
 
       <p> And then I found out about cybersecurity </p> */ }
-
-
-       <h4> More </h4>
-
-       <p> Wanna see my blog? It's over here </p>
     </>
   )
 }
