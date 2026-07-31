@@ -21,6 +21,8 @@ function Index() {
 
        <p> This place is very much a WIP, any tips are appreciated! </p>
 
+        <p> If you wanna see my blog, then you might have to wait cuz that needs to be made</p>
+
                <h2> Status </h2>
       <p> Currently in 12th Grade my High School (Senior/final year) </p>
 
