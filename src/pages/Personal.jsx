@@ -22,10 +22,27 @@ return (
 
 
   <h2> Likes and Dislikes </h2>
-<p>
 
 
-  </p>
+<ul>
+<li>
+Coding
+</li>
+
+</ul>
+
+
+
+
+<ul>
+<li>
+Sins.
+</li>
+<li>
+Too much spice in food
+</li>
+
+</ul>
     </>
 
 

@@ -44,7 +44,7 @@ function Index() {
 
        <h4> More </h4>
 
-       <p> WIP </p>
+       <p> Wanna see my blog? It's over here </p>
     </>
   )
 }
