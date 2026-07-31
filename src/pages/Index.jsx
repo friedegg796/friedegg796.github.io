@@ -22,7 +22,7 @@ function Index() {
        <p> This place is very much a WIP, any tips are appreciated! </p>
 
                <h2> Status </h2>
-
+      <p> Currently in 12th Grade my High School (Senior/final year) </p>
 
      <h3> </h3>
 
