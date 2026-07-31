@@ -11,7 +11,11 @@ function Index() {
 
       <br/>
 
-      <p> I'm an aspiring Red Teamer with a hobby in Minecraft modding and developing benefical programs </p>
+      <p>
+        I'm a Bengali-American aspiring to be a Red Teamer.
+
+        Also with a hobby in Minecraft modding and developing benefical programs
+        </p>
 
       <br/>
 

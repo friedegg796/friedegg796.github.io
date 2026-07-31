@@ -14,7 +14,7 @@ return (
 
  <p> Hi! To my Muslims, Asalamualaykum Warahmatulahi Wabarakatuh (May peace, mercy,and blessings be upon you)!</p>
 
- <p> I'm a Bengali-American guy in High school who codes to please Allah;
+ <p> I'm a Bengali-American High schooler who codes to please Allah;
 
   also trying to get into cybersecurity
 
