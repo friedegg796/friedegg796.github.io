@@ -17,7 +17,7 @@ function Index() {
       <p>
         I'm a Bengali-American aspiring to be a Red Teamer.
 
-        Also with a hobby in Minecraft modding and developing benefical programs
+        Also with a hobby in Minecraft modding and making things that have a use in general
         </p>
 
       <br/>
@@ -30,27 +30,10 @@ function Index() {
                
       <p> Currently in 12th Grade my High School (Senior/final year) </p>
 
+       <section className="featured-projects" id="featured-projects"/>
+       <h2> Featured Projects </h2>
 
-
-
-  { /*
-     <h2> My Story </h2>
-       <p> It's still ongoing. </p>
-
-
-
-      <p> A lot of the reason why I do what I do stems from me being Muslim </p>
-
-      <p> Growing up Muslim,I had a lot of restrictions (and for good reason) on what I could do, and also led me to wanting
-      to get as many good deeds as I can.
-
-      <br/>
-
-      What I personally found to be the best way of getting as many good deeds as I could (in the laziest way)--making benefical programs--
-      also becomes a bit boring after a while.
-      </p>
-
-      <p> And then I found out about cybersecurity </p> */ }
+      
     </>
   )
 }
