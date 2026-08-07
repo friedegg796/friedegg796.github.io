@@ -1,15 +1,17 @@
-
+import FeaturedProjects from "../components/FeaturedProjects"
 
 
 function Index() {
 
   return (
     <>
-       <h1> Friedegg796 </h1>
+       <h1> Hasnain Alahi (Friedegg796) </h1>
 
        <p>
          HI!
+
          To my Muslims, Asalamualaykum Warahmatulahi Wabarakatuh (May peace, mercy,and blessings be upon you)!
+         
          </p>
 
       <br/>
@@ -28,12 +30,9 @@ function Index() {
 
                <h2> Status </h2>
                
-      <p> Currently in 12th Grade my High School (Senior/final year) </p>
+       <p> Currently in 12th Grade my High School (Senior/final year) and living in the U.S.A (Eastern Time zone)</p>
 
-       <section className="featured-projects" id="featured-projects"/>
-       <h2> Featured Projects </h2>
-
-      
+          <FeaturedProjects/>
     </>
   )
 }
