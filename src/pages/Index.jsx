@@ -1,40 +1,104 @@
-import FeaturedProjects from "../components/FeaturedProjects"
+import React, { useEffect, useState } from 'react';
+import { motion, AnimatePresence } from 'framer-motion';
+import { 
+  Shield, 
+  Terminal, 
+  Activity, 
+  Cpu, 
+  Globe, 
+  Lock, 
+  Zap, 
+  ChevronRight 
+} from 'lucide-react';
 
 
-function Index() {
+// Animation Variants
+const containerVariants = {
+  hidden: { opacity: 0 },
+  visible: {
+    opacity: 1,
+    transition: { staggerChildren: 0.1, delayChildren: 0.3 }
+  }
+};
+
+const itemVariants = {
+  hidden: { y: 20, opacity: 0 },
+  visible: {
+    y: 0,
+    opacity: 1,
+    transition: { type: 'spring', stiffness: 100 }
+  }
+};
+
+const Index = () => {
+  const [isBooted, setIsBooted] = useState(false);
+
+  useEffect(() => {
+    const timer = setTimeout(() => setIsBooted(true), 1500);
+    return () => clearTimeout(timer);
+  }, []);
+
+  if (!isBooted) {
+    return (
+      <div className="boot-container">
+        <motion.div 
+          initial={{ opacity: 0 }}
+          animate={{ opacity: 1 }}
+          className="boot-text"
+        >
+          <span className="glitch-char">SYS_INIT</span>
+          <motion.div 
+            className="boot-progress"
+            initial={{ width: 0 }}
+            animate={{ width: "100%" }}
+            transition={{ duration: 1.2, ease: "easeInOut" }}
+          />
+        </motion.div>
+      </div>
+    );
+  }
 
   return (
-    <>
-       <h1> Hasnain Alahi (Friedegg796) </h1>
+    <motion.div 
+      className="interface-wrapper"
+      initial="hidden"
+      animate="visible"
+      variants={containerVariants}
+    >
+      <div className="noise-overlay"></div>
+      
+      <div className="dashboard-grid">
+        
+        <motion.div variants={itemVariants} className="bento-card hero-card span-6">
+          <div className="card-accent cyan"></div>
+          <div className="card-content">
+            <div className="profile-header">
+              <div className="avatar-glow">
+                <div className="avatar-placeholder"></div>
+              </div>
+              <div>
+                <h1 className="name-text">HASNAIN ALAHI</h1>
+                <p className="role-text">A student</p>
+              </div>
+            </div>
+            <p className="bio-text">
+              wow
+            </p>
+            <div className="action-row">
+              <button className="btn-primary">Contact</button>
+            </div>
+          </div>
+        </motion.div>
 
-       <p>
-         HI!
+        
+      
 
-         To my Muslims, Asalamualaykum Warahmatulahi Wabarakatuh (May peace, mercy,and blessings be upon you)!
-         
-         </p>
+    
 
-      <br/>
 
-      <p>
-        I'm a Bengali-American aspiring to be a Red Teamer.
+      </div>
+    </motion.div>
+  );
+};
 
-        Also with a hobby in Minecraft modding and making things that have a use in general
-        </p>
-
-      <br/>
-
-       <p> This place is very much a WIP, any tips are appreciated! </p>
-
-        <p> If you wanna see my blog, then you might have to wait cuz that needs to be made</p>
-
-               <h2> Status </h2>
-               
-       <p> Currently in 12th Grade my High School (Senior/final year) and living in the U.S.A (Eastern Time zone)</p>
-
-          <FeaturedProjects/>
-    </>
-  )
-}
-
-export default Index
+export default Index;

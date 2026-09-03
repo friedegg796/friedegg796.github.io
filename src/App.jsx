@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import './App.css'
+import './index.css'
 import { HashRouter, Routes, Route } from "react-router-dom"
 import Index from './pages/Index.jsx'
 import Projects from './pages/Projects.jsx'
