@@ -68,10 +68,6 @@ const Index = () => {
             </div>
           </div>
         </motion.div>
-
-        
-      
-
     
 
 
