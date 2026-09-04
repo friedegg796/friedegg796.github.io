@@ -38,26 +38,6 @@ const Index = () => {
     return () => clearTimeout(timer);
   }, []);
 
-  if (!isBooted) {
-    return (
-      <div className="boot-container">
-        <motion.div 
-          initial={{ opacity: 0 }}
-          animate={{ opacity: 1 }}
-          className="boot-text"
-        >
-          <span className="glitch-char">Loading!</span>
-          <motion.div 
-            className="boot-progress"
-            initial={{ width: 0 }}
-            animate={{ width: "100%" }}
-            transition={{ duration: 1.2, ease: "easeInOut" }}
-          />
-        </motion.div>
-      </div>
-    );
-  }
-
   return (
     <motion.div 
       className="interface-wrapper"
@@ -82,7 +62,7 @@ const Index = () => {
               </div>
             </div>
             <p className="bio-text">
-              Hello there!
+              Trying to give and gain benefit.
             </p>
             <div className="action-row">
             </div>
