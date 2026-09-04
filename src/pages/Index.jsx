@@ -46,7 +46,7 @@ const Index = () => {
           animate={{ opacity: 1 }}
           className="boot-text"
         >
-          <span className="glitch-char">SYS_INIT</span>
+          <span className="glitch-char">Loading!</span>
           <motion.div 
             className="boot-progress"
             initial={{ width: 0 }}
@@ -78,14 +78,13 @@ const Index = () => {
               </div>
               <div>
                 <h1 className="name-text">HASNAIN ALAHI</h1>
-                <p className="role-text">A student</p>
+                <p className="role-text">A High-School Senior</p>
               </div>
             </div>
             <p className="bio-text">
-              wow
+              Hello there!
             </p>
             <div className="action-row">
-              <button className="btn-primary">Contact</button>
             </div>
           </div>
         </motion.div>
